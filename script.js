@@ -1,3 +1,10 @@
+/* global
+    createCanvas, colorMode, HSB, width, height, displayWidth, displayHeight, windowWidth, windowHeight, random, background, fill, color, random,
+    rect, ellipse, stroke, image, loadImage, collideCircleCircle, collideRectCircle, text, collidePointRect,  
+    mouseX, mouseY, strokeWeight, line, mouseIsPressed, windowWidth, windowHeight, noStroke, 
+    keyCode, UP_ARROW, LEFT_ARROW, RIGHT_ARROW, DOWN_ARROW, textSize
+*/
+
 let quadrantData, areaCollision, boxWidth, boxHeight, moves, winner;
 let cross = "cross"
 let circle = "circle"
